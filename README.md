@@ -20,3 +20,4 @@
 * [WebDevOps Dockerfiles GitHub.](https://github.com/webdevops/Dockerfile)
 * [Installing PDO Informix.](https://gist.github.com/natsu90/6787b254929355c34e63)
 * [PDO driver for IBM Informix databases.](https://pecl.php.net/package/PDO_INFORMIX)
+* [Search for Informix Client SDKit 4.10.FC9DE.](https://www-01.ibm.com/marketing/iwm/tnd/search.jsp?rs=ifxdl)
