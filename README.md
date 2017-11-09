@@ -6,7 +6,7 @@
 | Apache | 2.4.7 |
 | PHP | 5.5.9 |
 | Informix PDO | 1.3.3 |
-| Informix Client SDK | 4.10 |
+| Informix Client SDK | 4.10.FC9DE |
 
 * Based on [webdevops/php-apache:ubuntu-14.04](https://hub.docker.com/r/webdevops/php-apache/)
 * Documentation for [webdevops/php-apache:ubuntu-14.04](http://dockerfile.readthedocs.io/en/latest/content/DockerImages/dockerfiles/php-apache.html)
