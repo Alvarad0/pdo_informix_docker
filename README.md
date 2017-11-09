@@ -16,10 +16,7 @@
 
 # References
 
-* [WebDevOps Dockerfiles documentation](http://dockerfile.readthedocs.io/)
-
-https://github.com/webdevops/Dockerfile
-
-https://gist.github.com/natsu90/6787b254929355c34e63
-
-https://pecl.php.net/package/PDO_INFORMIX
+* [WebDevOps Dockerfiles Documentation.](http://dockerfile.readthedocs.io/)
+* [WebDevOps Dockerfiles GitHub.](https://github.com/webdevops/Dockerfile)
+* [Installing PDO Informix.](https://gist.github.com/natsu90/6787b254929355c34e63)
+* [PDO driver for IBM Informix databases.](https://pecl.php.net/package/PDO_INFORMIX)
