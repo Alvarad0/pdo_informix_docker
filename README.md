@@ -1,4 +1,3 @@
-!
 # Apache, PHP-FPM with Informix support.
 
 |   |   |
