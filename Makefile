@@ -5,7 +5,7 @@ APPDIR = $(shell pwd)/../pdo_informix_app
 #RUNOPT ?= --rm -d
 
 all:
-	 @echo 'make [create|start|stop|destroy|restart|attach|bash|status]'
+	 @echo 'make [create|start|stop|destroy|restart|attach|bash|status|info|build|prune]'
 
 create:
 	 MOUNT=""; \
@@ -44,3 +44,14 @@ bash:    start
 
 status:
 	 docker container ls --all --size --no-trunc --filter 'name=${NAME}'
+
+info:
+	 docker image     ls --all
+	 docker container ls --all
+
+build:   destroy
+	-docker image rm       ${IMAGE}
+	 docker image build -t ${IMAGE} .
+
+prune:
+	 docker image prune
