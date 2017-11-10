@@ -16,7 +16,7 @@
 
 # Docker Hub
 
-[sbabych/pdo_informix - Add Informix support (pdo_informix) to webdevops/php-apache:ubuntu-14.04 docker image.](https://hub.docker.com/r/sbabych/pdo_informix/)
+[sbabych/pdo_informix](https://hub.docker.com/r/sbabych/pdo_informix/) - Add Informix support (pdo_informix) to webdevops/php-apache:ubuntu-14.04 docker image.
 
 # References
 
