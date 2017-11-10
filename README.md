@@ -14,6 +14,10 @@
 # Example of the container starting:
 ``docker run --rm -it -p 80:80 -v $(pwd)/app:/app sbabych/pdo_informix``
 
+# Docker Hub
+
+[sbabych/pdo_informix - Add Informix support (pdo_informix) to webdevops/php-apache:ubuntu-14.04 docker image.](https://hub.docker.com/r/sbabych/pdo_informix/)
+
 # References
 
 * [WebDevOps Dockerfiles Documentation.](http://dockerfile.readthedocs.io/)
